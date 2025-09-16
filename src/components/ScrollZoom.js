@@ -37,7 +37,7 @@ const ScrollZoom = () => {
   };
 
   return (
-    <motion.div ref={targetRef} className="relative h-[300vh] bg-neutral-900">
+    <motion.div ref={targetRef} className="relative h-[300vh] ">
       <div className="sticky top-0 h-screen overflow-hidden">
         <div className="absolute inset-0 grid grid-cols-3 grid-rows-3 gap-4 p-4">
           {allImages.map((image) => {
