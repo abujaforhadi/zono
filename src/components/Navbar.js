@@ -3,7 +3,7 @@ import React from 'react'
 
 function Navbar() {
     return (
-        <div className='fixed top-4 left-1/2 -translate-x-1/2 w-full max-w-2xl flex justify-between items-center bg-white/70 backdrop-blur-sm p-4 rounded-xl shadow-lg text-[#212121] z-50'>
+        <div className='fixed top-4 left-1/2 -translate-x-1/2 w-full md:max-w-2xl flex justify-between items-center bg-white/70 backdrop-blur-sm p-4 rounded-xl shadow-lg text-[#212121] z-50'>
 
             <span className="text-2xl font-bold">zuno</span>
             <div className='text-xl font-medium mx-4 flex gap-2'>
