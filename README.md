@@ -76,7 +76,7 @@ yarn dev
 
 ## Submission Details
 
-* **Source Code:** [GitHub Repository](YOUR_REPO_LINK_HERE)
+* **Source Code:** [ https://github.com/abujaforhadi/zono.git]( https://github.com/abujaforhadi/zono.git)
 * **Live Hosted Site:** [https://zuno25.vercel.app/](https://zuno25.vercel.app/)
 
 ---
