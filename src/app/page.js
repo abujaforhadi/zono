@@ -3,6 +3,7 @@ import CardLeftToRight from "@/components/CardLeftToRight";
 import CardWithCarousel from "@/components/CardWithCarosol";
 import Hero from "@/components/Hero";
 import HeroScroll from "@/components/HeroScroll";
+import QNA from "@/components/QNA";
 import ScrollZoom from "@/components/ScrollZoom";
 
 export default function Home() {
@@ -14,6 +15,7 @@ export default function Home() {
       <HeroScroll />
       <ScrollZoom />
       <CardWithCarousel />
+      <QNA />
 
      
     </>
